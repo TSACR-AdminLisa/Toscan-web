@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Common/TSA.TWF.Data/Data/bin/Debug/netcoreapp2.0
