@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Common.Validations</AssemblyName>
+    <RootNamespace>Common.Validations</RootNamespace>
+    <Authors>Tech Software Advisors C.R.</Authors>
+    <Product>TSA Based Framework</Product>
+    <Copyright>Tech Software Advisors C.R.</Copyright>
+    <Description>Based Common Framework for every project that you need to built, you just use our DLL and forget about common issues, like missing data validations, missing datatype validations, etc.</Description>
+    <PackageReleaseNotes>-- Include basic missing data validations
+-- Include basic missing datatype validations</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>

@@ -3,3 +3,5 @@
 ################################################################################
 
 /Common/TSA.TWF.Data/Data/bin/Debug/netcoreapp2.0
+/Common/TSA.TWF.Data/Data/obj
+*.lock
